@@ -24,9 +24,12 @@ A list of technologies used within the project:
 * [Python](https://example.com): Version 3.9.x
 * [Google Colab](https://example.com): Version x.x
 * [Numpy](http://www.numpy.org/): Version 1.20.3
-* [Pandas](https://pandas.pydata.org/): Version 1.3.4
-* [Seaborn](https://seaborn.pydata.org/tutorial.html): Version 0.11.2
-* [Scipy](https://docs.scipy.org/doc/scipy/): Version 1.7.1
+* [Pandas](https://pandas.pydata.org/): Version 1.5.3
+* [Seaborn](https://seaborn.pydata.org/tutorial.html): Version 0.12.2
+* [Matplotlib](https://matplotlib.org/stable/): Version 3.8.1
+* [Plotly](https://matplotlib.org/stable/): Version 5.15.0
+* [Statsmodels](https://www.statsmodels.org/stable/index.html): Version 0.14.0
+* [Scipy](https://docs.scipy.org/doc/scipy/): Version 1.11.3
 
 ## Installation
 ***
